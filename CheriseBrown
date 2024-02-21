@@ -1,0 +1,5 @@
+start
+  input my number
+  myAnswer=myNumber *10
+  output my Answer
+stop
