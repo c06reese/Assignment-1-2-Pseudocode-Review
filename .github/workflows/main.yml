@@ -1,0 +1,7 @@
+start:
+  input myNumber:
+  myAnswer = myNumber * 10:
+  output myAnswer:
+stop:
+
+  
