@@ -1,5 +1,5 @@
 start:
-  input myNumber:
+  input myNumber:5
   myAnswer = myNumber * 10:
   output myAnswer:
 stop:
