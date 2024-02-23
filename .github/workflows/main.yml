@@ -1,4 +1,4 @@
-start
+start 
   input myNumber ("enter you number")
   myAnswer = myNumber * 10
   output = myAnswer
