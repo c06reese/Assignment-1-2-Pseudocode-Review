@@ -1,5 +1,5 @@
 start
-  input my number
-  myAnswer=myNumber *10
-  output my Answer
+  get myNumber
+  myAnswer = myNumber *10
+  write myAnswer
 stop
